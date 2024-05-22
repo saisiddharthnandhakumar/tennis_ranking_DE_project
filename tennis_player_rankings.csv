@@ -18,7 +18,7 @@ Ugo Humbert,17,France,2285
 Karen Khachanov,18,Russia,2090
 Nicolás Jarry,16,Chile,2075
 Alexander Bublik,19,Kazakhstan,2060
-Sebastián Báez,20,Argentina,1965
+Sebastián Báez,20,Argentina,1990
 Félix Auger-Aliassime,21,Canada,1885
 Adrian Mannarino,22,France,1865
 Jiří Lehečka,24,Czech Republic,1685
@@ -27,7 +27,7 @@ Frances Tiafoe,26,USA,1630
 Tallon Griekspoor,27,Netherlands,1610
 Francisco Cerúndolo,23,Argentina,1590
 Sebastian Korda,28,USA,1565
-Tomás Martín Etcheverry,29,Argentina,1410
+Tomás Martín Etcheverry,29,Argentina,1435
 Lorenzo Musetti,31,Italy,1370
 Mariano Navone,32,Argentina,1339
 Alejandro Davidovich Fokina,34,Spain,1280
@@ -40,11 +40,11 @@ Jack Draper,35,United Kingdom,1131
 Jan Lennard Struff,39,Germany,1090
 Roman Safiullin,40,Russia,1087
 Fábián Marozsán,41,Hungary,1083
+Tomáš Macháč,44,Czech Republic,1070
 Zhizhen Zhang,42,China,1056
-Tomáš Macháč,44,Czech Republic,1045
+Luciano Darderi,47,Italy,1042
 Sebastian Ofner,45,Austria,1038
 Christopher Eubanks,43,USA,1028
-Luciano Darderi,47,Italy,1017
 Nuno Borges,46,Portugal,1006
 Pedro Martínez,49,Spain,995
 Lorenzo Sonego,50,Italy,991
@@ -58,13 +58,13 @@ Flavio Cobolli,56,Italy,890
 Miomir Kecmanović,55,Serbia,880
 Thiago Seyboth Wild,58,Brazil,855
 Alexander Shevchenko,61,Kazakhstan,855
+Alex Michelsen,65,USA,835
 Dušan Lajović,59,Serbia,831
 Daniel Evans,60,United Kingdom,831
 Roberto Carballés Baena,62,Spain,816
-Alex Michelsen,65,USA,810
 Jaume Munar,63,Spain,810
+Dominik Koepfer,67,Germany,807
 Emil Ruusuvuori,66,Finland,783
-Dominik Koepfer,67,Germany,782
 Christopher O'Connell,64,Australia,772
 Yoshihito Nishioka,72,Japan,766
 Federico Coria,69,Argentina,761
@@ -104,6 +104,7 @@ Luca Van Assche,101,France,613
 Zizou Bergs,102,Belgium,611
 James Duckworth,103,Australia,611
 Daniel Elahi Galán,105,Colombia,609
+Giovanni Mpetshi Perricard,117,France,586
 J.J. Wolf,107,USA,585
 Pedro Cachín,106,Argentina,584
 Thiago Agustín Tirante,109,Argentina,580
@@ -111,7 +112,6 @@ Camilo Ugo Carabelli,110,Argentina,580
 Albert Ramos Viñolas,111,Spain,578
 Grégoire Barrère,108,France,575
 Cristian Garín,112,Chile,563
-Giovanni Mpetshi Perricard,117,France,561
 Michael Mmoh,114,USA,557
 David Goffin,115,Belgium,543
 Valentin Vacherot,116,Monaco,543
@@ -240,8 +240,8 @@ Timofey Skatov,242,Kazakhstan,257
 Alex Bolt,239,Australia,257
 Gijs Brouwer,244,Netherlands,256
 Jules Marie,240,France,256
+Philip Sekulic,245,Australia,255
 Filip Misolic,241,Austria,255
-Philip Sekulic,245,Australia,251
 Dmitry Popko,229,Kazakhstan,251
 Santiago Rodríguez Taverna,243,Argentina,250
 Arthur Fery,246,United Kingdom,248
@@ -266,8 +266,8 @@ Maks Kaśnikowski,265,Poland,220
 Yuta Shimizu,263,Japan,219
 Nicolás Mejía,264,Colombia,218
 Ivan Gakhov,272,Russia,215
+Egor Gerasimov,275,Belarus,214
 Guido Pella,267,Argentina,210
-Egor Gerasimov,275,Belarus,210
 Thai Son Kwiatkowski,268,USA,210
 Kimmer Coppejans,270,Belgium,209
 Tung Lin Wu,271,Chinese Taipei,209
@@ -283,18 +283,18 @@ Tristan Lamasine,278,France,199
 Edoardo Lavagno,284,Italy,197
 Charles Broom,285,United Kingdom,195
 Aidan Mayo,269,USA,194
+Elmer Møller,293,Denmark,193
 Filip Cristian Jianu,286,Romania,192
 Marvin Möller,288,Germany,190
 João Sousa,287,Portugal,189
-Elmer Møller,293,Denmark,189
 Zdeněk Kolář,290,Czech Republic,188
 Adolfo Daniel Vallejo,292,Paraguay,187
+Andrea Collarini,296,Argentina,187
 Mathias Bourgue,289,France,186
 Gianluca Mager,294,Italy,185
 Michael Vrbenský,297,Czech Republic,184
 Giovanni Fonio,302,Italy,184
 Alexander Blockx,291,Belgium,183
-Andrea Collarini,296,Argentina,183
 Brandon Holt,298,USA,182
 Jason Jung,299,Chinese Taipei,181
 Guido Andreozzi,300,Argentina,180
@@ -304,34 +304,34 @@ August Holmgren,305,Denmark,175
 Daniel Masur,310,Germany,175
 Blaise Bicknell,307,Jamaica,174
 Ričardas Berankis,308,Lithuania,174
+Carlos Taberner,313,Spain,174
 Remy Bertola,309,Switzerland,173
 Felix Gill,306,United Kingdom,173
 Sebastian Fanselow,316,Germany,171
 Martin Landaluce,311,Spain,170
-Carlos Taberner,313,Spain,170
 João Lucas Reis Da Silva,312,Brazil,169
+Paul Jubb,323,United Kingdom,168
 Yan Bai,324,China,168
+Andrew Paulson,328,Czech Republic,167
 Rio Noguchi,314,Japan,167
-Federico Agustin Gomez,318,Argentina,165
+Federico Agustin Gomez,318,Argentina,167
+Toby Kodat,329,USA,166
 Raúl Brancaccio,319,Italy,164
-Paul Jubb,323,United Kingdom,164
 Luke Saville,320,Australia,164
-Toby Kodat,329,USA,162
 Alexander Weis,303,Italy,162
-Andrew Paulson,328,Czech Republic,161
 Andrés Andrade,366,Ecuador,160
 David Jordá Sanchis,295,Spain,160
 Timo Stodder,325,Germany,160
 Lucas Poullain,322,France,159
 Michael Geerts,327,Belgium,159
 Khumoyun Sultanov,326,Uzbekistan,158
+Ramkumar Ramanathan,343,India,157
 Matheus Pucinelli De Almeida,331,Brazil,157
 Jakub Nicod,330,Czech Republic,157
 Hernán Casanova,332,Argentina,157
 Facundo Mena,335,Argentina,154
 Hiroki Moriya,334,Japan,154
 Moez Echargui,336,Tunisia,154
-Ramkumar Ramanathan,343,India,153
 Ignacio Buse,380,Peru,152
 Sandro Kopp,337,Austria,152
 Antoine Bellier,339,Switzerland,151
@@ -350,27 +350,27 @@ Orlando Luz,352,Brazil,143
 Aidan McHugh,342,United Kingdom,143
 Giles Hussey,357,United Kingdom,142
 Benjamin Lock,353,Zimbabwe,142
+Blake Mott,368,Australia,141
 Jay Clarke,317,United Kingdom,140
+Gerard Campana Lee,349,South Korea,140
 Gilbert Klier Junior,355,Brazil,139
 Nino Serdarušić,340,Croatia,139
 Matej Dodig,367,Croatia,138
 Gastão Elias,360,Portugal,137
-Blake Mott,368,Australia,137
 Corentin Denolly,359,France,137
 Tim Handel,362,Germany,136
+Daniel Michalski,372,Poland,136
 Cezar Crețu,363,Romania,136
 Fajing Sun,425,China,136
+Robin Bertrand,374,France,136
 Guy Den Ouden,364,Netherlands,135
-Gerard Campana Lee,349,South Korea,134
 Riccardo Bonadio,378,Italy,134
 Alessandro Giannessi,358,Italy,134
 Yishai Oliel,397,Israel,134
 Martin Krumich,369,Czech Republic,133
 Mohamed Safwat,370,Egypt,133
 James Trotter,371,Japan,132
-Daniel Michalski,372,Poland,132
 Blake Ellis,373,Australia,132
-Robin Bertrand,374,France,132
 Federico Delbonis,375,Argentina,131
 Lorenzo Giustino,377,Italy,131
 Matías Soto,384,Chile,130
@@ -399,7 +399,9 @@ Jelle Sels,440,Netherlands,119
 Damien Wenger,401,Switzerland,119
 Yibing Wu,321,China,118
 Robert Strombachs,405,Germany,118
+Marco Cecchinato,387,Italy,116
 Nicola Kuhn,403,Germany,116
+Lucas Gerch,382,Germany,116
 Andrea Picchione,420,Italy,116
 Laurent Lokoli,406,France,115
 Alejo Lorenzo Lingua Lavallén,446,Argentina,115
@@ -414,11 +416,10 @@ Bogdan Bobrov,409,Russia,113
 Max Houkes,398,Netherlands,113
 Stefan Popović,410,Serbia,113
 Kalin Ivanovski,417,North Macedonia,112
-Lucas Gerch,382,Germany,112
+Daniil Glinka,454,Estonia,112
 Gonzalo Villanueva,421,Argentina,112
 Kris Van Wyk,422,South Africa,112
 Lautaro Midon,423,Argentina,111
-Marco Cecchinato,387,Italy,110
 Marko Topo,361,Germany,110
 Juan Bautista Torres,426,Argentina,110
 Evgeny Donskoy,354,Russia,110
@@ -429,7 +430,6 @@ Matthew Dellavedova,441,Australia,109
 Mateus Alves,429,Brazil,108
 Evgenii Tiurnev,493,Russia,108
 Mats Rosenkranz,436,Germany,108
-Daniil Glinka,454,Estonia,108
 Ryan Nijboer,428,Netherlands,108
 Svyatoslav Gulin,430,Russia,107
 Max Hans Rehberg,432,Germany,106
@@ -498,4 +498,4 @@ Strong Kirchheimer,492,USA,85
 Imanol López Morillo,494,Spain,85
 Arthur Bouquier,512,France,84
 Ulises Blanch,528,USA,83
-Viktor Durasovic,484,Norway,83
+Ryan Seggerman,555,USA,83

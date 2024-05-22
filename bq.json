@@ -1,15 +1,20 @@
 {
-    "BigQuery Schema": [{
+  "BigQuery Schema": [
+    {
+      "name": "player_name",
+      "type": "STRING"
+    },
+    {
       "name": "rank",
-      "type": "STRING"
-     },
-     {
-      "name": "name",
-      "type": "STRING"
-     },
-     {
+      "type": "INTEGER"
+    },
+    {
       "name": "country",
       "type": "STRING"
-     }
-    ]
-   }
+    },
+    {
+      "name": "points",
+      "type": "INTEGER"
+    }
+  ]
+}
